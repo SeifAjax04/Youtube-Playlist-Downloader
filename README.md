@@ -45,6 +45,10 @@ pip install pytube
 pip install tk
 ```
 
+## Disclaimer
+
+This project is intended for educational and personal use only. The developers are not responsible for any misuse of this software for downloading copyrighted content without proper authorization. Use this application in compliance with YouTube's terms of service and applicable copyright laws.
+
 ## Donate
 
 help support the development and maintenance of the software ❤️
