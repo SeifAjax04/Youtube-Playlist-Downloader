@@ -19,6 +19,13 @@ Python provides several choices for creating Graphical User Interfaces (GUI). Am
 In this guide, we will explore the process of developing a GUI application in Python for downloading either a single YouTube video or an entire YouTube playlist.
 Before diving into the implementation, let's first delve into the pyyoutube module. The pyyoutube module offers a user-friendly means of interacting with the YouTube Data API V3.
 
+## Features
+
+- get_list_videos:- It will give a list of all video links of a YouTube playlist.
+- threading:- It is used for threading in Tkinter.
+- download_videos:- It is used for downloading YouTube video.
+
+
 ## Installation
 
 Install the required packages using the following commands:
