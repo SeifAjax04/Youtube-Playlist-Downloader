@@ -27,3 +27,11 @@ Install the required packages using the following commands:
 pip install python-youtube
 pip install pytube
 pip install tk
+```
+
+## Donate
+
+help support the development and maintenance of the software ❤️
+
+[![paypal](https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/seifkhaled04)
+[![kofi](https://img.shields.io/badge/kofi-%23F16061.svg?&style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/seifajax04)
