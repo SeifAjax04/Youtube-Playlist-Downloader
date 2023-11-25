@@ -1,7 +1,16 @@
 # YouTube Playlist Downloader
 
+<div align="center">
+  <p>
+    <a href="#"><img src="https://media.proglib.io/posts/2021/11/20/a1751d04827791e26d64c2a3fe92ef9b.jpg" width="800" height="400" alt="pytube logo" /></a>
+  </p>
+  <p align="center">
+
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+
+  </p>
+</div>
 
 ## Prerequisites
 
